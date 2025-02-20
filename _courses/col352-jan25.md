@@ -185,6 +185,11 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>Context-free = PDA-recognizable (part 2)</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/17.pdf" target="_blank">Slides</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">20 February, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Context-free = PDA-recognizable (part 3)</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/18.pdf" target="_blank">Slides</a></td>
+    </tr>
 	</tbody>
 </table>
 </div>
