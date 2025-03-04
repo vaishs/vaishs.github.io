@@ -1,0 +1,88 @@
+/*
+Toy NS protocol
+*/
+
+theory ToyNS
+begin
+
+builtins: asymmetric-encryption
+
+// Registering a public key
+rule Register_pk:
+    [ Fr(~ltk) ]
+  -->
+    [ !Ltk($A, ~ltk), !Pk($A, pk(~ltk)) ]
+
+rule Get_pk:
+    [ !Pk(A, pubkey) ]
+  -->
+    [ Out(pubkey) ]
+
+rule Reveal_ltk:
+    [ !Ltk(A, ltk) ]
+  --[ LtkReveal(A) ]->
+    [ Out(ltk) ]
+
+// Start a new thread executing the A role, choosing B
+// non-deterministically.
+rule A_1:
+    [ 
+      Fr(~m)         // choose fresh m
+    , !Pk($B, pkB)   // lookup public-key of B
+    , !Pk($A, pkA)   // lookup public-key of A
+    ]
+  --[ AStart( $A, $B, ~m ) ]->
+    [ 
+      A_1( $B, ~m )    // Store B, and m for next step of thread
+    , Out( <$A, aenc(~m, pkB)> )  // Send A and the encrypted m to B
+    ]
+
+rule A_2:
+    [ 
+      A_1(B, m)        // Retrieve A and B and m from previous step
+    , !Ltk($A, ~ltkA)  // Lookup A's private key
+    , In( fin )        // Receive fin from network
+    ]
+  --[ ADone( $A, B, adec(fin, ~ltkA) ) ]-> // State that m was set up by A with B
+    []                    
+
+// B thread answering to a request from some A
+rule B_1:
+    [ 
+      !Ltk($B, ~ltkB)                             // lookup the private-key
+    , In( <req1, req2> )                               // receive a request
+    , !Pk(req1, pkreq1)
+    ]
+  --[ BResp( req1, $B, adec(req2, ~ltkB) ) ]->    // B has received a request to respond to
+    [ 
+      Out( aenc(adec(req2, ~ltkB), pkreq1) )     // Return the appropriate encryption in response
+    ]                                              
+
+
+lemma honest_setup:
+  exists-trace
+  " Ex A B m #i1 #i2.
+        AStart(A, B, m) @ #i1 
+      & ADone(A, B, m) @ #i2
+      & not( A = B )
+      & not(Ex #r. LtkReveal(A) @ r)
+      & not(Ex #r. LtkReveal(B) @ r)
+  "
+
+lemma m_secrecy:
+  " /* It cannot be that a  */
+    not(
+      Ex A B m #i1 #j.
+        /* A has set up an m with B */
+        AStart(A, B, m) @ #i1
+        /* and the adversary knows 'k' */
+      & K(m) @ #j
+        /* without having performed a long-term key reveal on A or B. */
+      & not(Ex #r. LtkReveal(A) @ r)
+      & not(Ex #r. LtkReveal(B) @ r)
+    )
+  "
+
+
+
+end
