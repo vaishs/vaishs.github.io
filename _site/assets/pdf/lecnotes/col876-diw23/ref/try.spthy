@@ -1,0 +1,49 @@
+theory TryEx
+begin
+
+builtins: hashing, asymmetric-encryption
+
+// Registering a public key
+rule Register_pk:
+    [ Fr(~ltk) ]
+  -->
+    [ !Ltk($A, ~ltk), !Pk($A, pk(~ltk)) ]
+
+rule Get_pk:
+    [ !Pk(A, pubkey) ]
+  -->
+    [ Out(pubkey) ]
+
+rule Reveal_ltk:
+    [ !Ltk(A, ltk) ]
+  --[ LtkReveal(A) ]->
+    [ Out(ltk) ]
+
+rule Client_1:
+    [ 
+      Fr(~k) ,
+      !Pk($S, pkS)   
+    ]
+  -->
+    [ 
+      Out( aenc(~k, pkS) )
+    ]
+
+rule Client_2:
+    [ 
+       In( h(k) )      
+    ]
+  --[]-> 
+    []                 
+
+rule Serv_1:
+    [ 
+      !Ltk($S, ~ltkS) ,
+      In( request )  
+    ]
+  --[]-> 
+    [ 
+      Out( h(adec(request, ~ltkS)) ) 
+    ]
+
+end
