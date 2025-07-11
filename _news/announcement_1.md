@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-07-17 12:00:00+0530
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+I am teaching Introduction to Automata and Theory of Computation (COL352) this semester. More details <a href="../courses/col352-jan25" target="_blank">here</a>.

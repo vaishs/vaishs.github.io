@@ -1,115 +1,195 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{norrman2023book,
+bibtex_show={true},
+author="Norrman, Karl and Sundararajan, Vaishnavi and Bruni, Alessandro", 
+editor="Samarati, Pierangela and van Sinderen, Marten and Vimercati, Sabrina De Capitani di and Wijnhoven, Fons",
+title="Extended Formal Analysis of the EDHOC Protocol in Tamarin",
+journal="E-Business and Telecommunications, Communications in Computer and Information Science",
+volume={1795},
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="224--248",
+isbn="978-3-031-36840-0",
+abstract="Given how common IoT devices that use constrained resources are becoming today, the need of the hour is communication protocols which can operate securely under such limitations. For a few years, the Internet Engineering Task Force (IETF) has been working to standardize EDHOC, an authenticated key establishment protocol for such constrained IoT devices. The first version of EDHOC was proposed in 2016. In 2018, Bruni et al. [3] used the ProVerif tool [2] to formally analyze an early version of EDHOC, which had only two key establishment methods. By 2021, the protocol had been fleshed out much more, with multiple new key establishment methods, and this version was formally analyzed using the Tamarin prover [15] in [17]. In this paper, we build on that work, by modifying the model, analyzing some new properties, and discussing some aspects of the latest EDHOC specification. In particular, we extend the modeling in [17] with trusted execution environments (TEEs), modify the way we model XOR encryption, and in addition to the properties verified in [17], we verify weak post-compromise security (PCS) as well as the secrecy and integrity of some additional data used as part of the protocol.",
+doi="10.1007/978-3-031-36840-0_11",
+bnote={Names in order of contribution},
+kind={Chapter}
 }
 
-@book{einstein1956investigations,
+@inproceedings{rss24,
+	bibtex_show={true},
+  title={Solving the {I}nsecurity {P}roblem for {A}ssertions},
+  author={Ramanujam, R and Sundararajan, Vaishnavi and Suresh, S P},
+  booktitle={37th IEEE Computer Security Foundations Symposium (CSF'24)},
+	year={2024},
+	pages={636--650},
+	arxiv={2308.13773},
+	kind={Conference}
+}
+
+@inproceedings{nikou2022saferan,
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+  author={Alexandros Nikou and Anusha Mujumdar and Vaishnavi Sundararajan and Marin Orlic and Aneta Vulgarakis Feljan},
+	booktitle={International Conference on Control & Automation, ISBN 978-166-549-573-8},
+  title={Safe {RAN} control: {A} Symbolic Reinforcement Learning Approach},
+  journal={CoRR abs/2106.01977},
+  year={2022},
+	pages={332--337},
+	doi={10.1109/ICCA54724.2022.9831850},
+  bnote={Best Paper Award | First three authors equal main contributors},
+	kind={Conference}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{norrman2021formal,
+	bibtex_show={true},
+  title={Formal analysis of EDHOC key establishment for constrained IoT devices},
+  author={Norrman, Karl and Sundararajan, Vaishnavi and Bruni, Alessandro},
+  booktitle={SECRYPT 2021, ISBN 978-989-758-524-1},
+	pages={210--221},
+	doi={https://doi.org/10.5220/0010554002100221},
+	arxiv={2007.11427},
+  year={2021},
+	abstract={Constrained IoT devices are becoming ubiquitous in society and there is a need for secure communication protocols that respect the constraints under which these devices operate. EDHOC is an authenticated key establishment protocol for constrained IoT devices, currently being standardized by the Internet Engineering Task Force (IETF). A rudimentary version of EDHOC with only two key establishment methods was formally analyzed in 2018. Since then, the protocol has evolved significantly and several new key establishment methods have been added. In this paper, we present a formal analysis of all EDHOC methods in an enhanced symbolic Dolev-Yao model using the Tamarin tool. We show that not all methods satisfy the authentication notion injective of agreement, but that they all do satisfy a notion of implicit authentication, as well as Perfect Forward Secrecy (PFS) of the session key material. We identify other weaknesses to which we propose improvements. For example, a party may intend to establish a session key with a certain peer, but end up establishing it with another, trusted but compromised, peer. We communicated our findings and proposals to the IETF, which has incorporated some of these in newer versions of the standard.},
+	bnote={Names in order of contribution},
+	kind={Conference}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
+@article{van2021holds,
+	bibtex_show={true},
+  title={Who holds the best card? Secure communication of optimal secret bits.},
+  author={Ditmarsch, Hans van and Fern{\'a}ndez-Duque, David and Sundararajan, Vaishnavi and Suresh, S P},
+  journal={Australasian Journal of Combinatorics, ISSN 2202-3518},
+  volume={80},
+  pages={1--29},
+  year={2021},
+  website={https://ajc.maths.uq.edu.au/?page=get_volumes&volume=80},
+	abstract={In the Russian cards problem, a group of communicating agents and an eavesdropper, Eve, draw cards from a deck. The agents then wish to inform each other about their hand without Eve learning any ‘protected’ information, typically in the sense of weak possibilistic security. We consider a weakening of this original problem, whereby the cards are linearly ordered by value. The agents wish to know the value of the best card held between them, without Eve knowing who holds said card. We consider standard solutions to the problem based on combinatorial designs, as well as novel solutions based on secret-bit-exchange protocols. Our results show that this version of the problem can be solved in many instances where the size of each agent’s hand is linear on that of the eavesdropper’s.},
+	pdf={https://ajc.maths.uq.edu.au/pdf/80/ajc_v80_p001.pdf},
+	kind={Journal}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{cortier2021decidable,
+	bibtex_show={true},
+  title={A decidable class of security protocols for both reachability and equivalence properties},
+  author={Cortier, V{\'e}ronique and Delaune, St{\'e}phanie and Sundararajan, Vaishnavi},
+  journal={Journal of Automated Reasoning},
+  volume={65},
+  number={4},
+  pages={479--520},
+  year={2021},
+	doi={10.1007/s10817-020-09582-9},
+	poster={Csf-poster.pdf},
+	abstract={We identify a new decidable class of security protocols, both for reachability and equivalence properties. Our result holds for an unbounded number of sessions and for protocols with nonces. It covers all standard cryptographic primitives. Our class sets up three main assumptions. (i) Protocols need to be “simple”, meaning that an attacker can precisely identify from which participant and which session a message originates from. We also consider protocols with no else branches (only positive test). (ii) Protocols should be type-compliant, which is intuitively guaranteed as soon as two encrypted messages of the protocol cannot be confused. (iii) Finally, we define the notion of a dependency graph, which, given a protocol, characterises how actions depend on the other ones (both sequential dependencies and data dependencies are taken into account). Whenever the graph is acyclic, then the protocol falls into our class. We show that many protocols of the literature belong to our decidable class, including for example some of the protocols embedded in the biometric passport.},
+  publisher={Springer},
+		kind={Journal}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{cyras2020machine,
+	bibtex_show={true},
+	arxiv={2009.00418},
+  title={Machine reasoning explainability},
+  author={Cyras, Kristijonas and Badrinath, Ramamurthy and Mohalik, Swarup Kumar and Mujumdar, Anusha and Nikou, Alexandros and Previti, Alessandro and Sundararajan, Vaishnavi and Feljan, Aneta Vulgarakis},
+  journal   = {CoRR abs/2009.00418},
+  year={2020},
+	bnote = {First author main contributor, others equal contributors},
+	kind={Other}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{ramanujam2020complexity,
+	bibtex_show={true},
+  title={The complexity of disjunction in intuitionistic logic},
+  author={Ramanujam, R and Sundararajan, Vaishnavi and Suresh, S P},
+  journal={Journal of Logic and Computation},
+  volume={30},
+  number={1},
+  pages={421--445},
+  year={2020},
+  publisher={Oxford University Press},
+	pdf={https://www.cmi.ac.in/~spsuresh/pdfs/jlc2020-tr.pdf},
+	abstract={We study procedures for the derivability problem of fragments of intuitionistic logic. Intuitionistic logic is known to be PSPACE-complete, with implication being one of the main contributors to this complexity. In fact, with just implication alone, we still have a PSPACE-complete logic. We study fragments of intuitionistic logic with restricted implication and develop algorithms for these fragments which are based on the proof rules. We identify a core fragment whose derivability is solvable in linear time. Adding disjunction elimination to this core gives a logic which is solvable in co-NP. These sub-procedures are applicable to a wide variety of logics with rules of a similar flavour. We also show that we cannot do better than co-NP whenever disjunction elimination interacts with other rules.},
+	doi={10.1093/logcom/exaa018},
+	kind={Journal}
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+
+@article{sundararajan2018theory,
+	bibtex_show={true},
+  title={A Theory of Assertions for Dolev-Yao Models},
+  author={Sundararajan, Vaishnavi},
+	journal={PhD Thesis},
+	year={2018},
+	pdf={https://www.dropbox.com/s/bg11nuohpfnhjdy/thesis.pdf},
+	kind={Other}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+
+@inproceedings{ramanujam2017existential,
+	bibtex_show={true},
+  title={Existential assertions for voting protocols},
+  author={Ramanujam, R and Sundararajan, Vaishnavi and Suresh, S P},
+  booktitle={International Conference on Financial Cryptography and Data Security (Voting '17)},
+  pages={337--352},
+  year={2017},
+	doi={10.1007/978-3-319-70278-0_21},
+	abstract={In (Ramanujam, Sundararajan, and Suresh [2014]), we extended the Dolev-Yao model with assertions. We build on that work and add existential abstraction to the language, which allows us to translate common constructs used in voting protocols into proof properties. We also give an equivalence-based definition of anonymity in this model, and prove anonymity for the FOO protocol.},
+  organization={Springer},
+	kind={Conference}
+}
+
+
+@inproceedings{ramanujam2016complexity,
+	bibtex_show={true},
+  title={The complexity of disjunction in intuitionistic logic},
+  author={Ramanujam, R and Sundararajan, Vaishnavi and Suresh, S P},
+  booktitle={International Symposium on Logical Foundations of Computer Science},
+  pages={349--363},
+  year={2016},
+	doi={10.1007/978-3-319-27683-0_24},
+	abstract={In the formal study of security protocols and access control systems, fragments of intuitionistic logic play a vital role. These are required to be efficient, and are typically disjunction-free. In this paper, we study the complexity of adding disjunction to these subsystems. Our lower bound results show that very little needs to be added to disjunction to get co-NP-hardness, while our upper bound results show that even a system with conjunction, disjunction, and restricted forms of negation and implication is in co-NP. Our upper bound proofs also suggest parameters which we can bound to obtain PTIME algorithms.},
+  organization={Springer},
+	kind={Conference}
+}
+
+
+@inproceedings{ramanujam2014extending,
+	bibtex_show={true},
+  title={Extending {D}olev-{Y}ao with assertions},
+  author={Ramanujam, R and Sundararajan, Vaishnavi and Suresh, S P},
+  booktitle={International Conference on Information Systems Security},
+  pages={50--68},
+  year={2014},
+  publisher={Springer},
+	doi={10.1007/978-3-319-13841-1_4},
+	abstract={Cryptographic protocols often require principals to send certifications asserting partial knowledge of terms (for instance, that an encrypted secret is 0 or 1). Such certificates are themselves modelled by cryptographic primitives or sequences of communications. For logical analysis of such protocols based on the Dolev-Yao model [1983], we suggest that it is useful to separate terms and assertions about them in communications. We propose a perfect assertion assumption by which the underlying model ensures the correctness of the assertion when it is generated. The recipient may then rely on the certificate but may only forward it as second-hand information. We use a simple propositional modal assertion language involving disjunction (for partial knowledge) and formulas of the form A says $\alpha~$ (for delegation). We study the complexity of the term derivability problem and safety checking in the presence of an active intruder (for bounded protocols). We show that assertions add complexity to verification, but when they involve only boundedly many disjunctions, the complexity is the same as that of the standard Dolev-Yao model.},
+	bnote={Second-Best Paper Award},
+	kind={Conference}
+}
+
+
+@inproceedings{bhardwaj2010chaotic,
+	bibtex_show={true},
+  title={Chaotic time series prediction using combination of hidden markov model and neural nets},
+  author={Bhardwaj, Saurabh and Srivastava, Smriti and Vaishnavi, S and Gupta, JRP},
+  booktitle={2010 International Conference on Computer Information Systems and Industrial Management Applications},
+  pages={585--589},
+  year={2010},
+  organization={IEEE},
+	doi={10.1109/CISIM.2010.5643518},
+	abstract={This paper introduces a novel method for the prediction of chaotic time series using a combination of Hidden Markov Model (HMM) and Neural Network (NN). In this paper, an algorithm is proposed wherein an HMM, which is a doubly embedded stochastic process, is used for the shape based clustering of data. These data clusters are trained individually with Neural Network. The novel prediction approach used here exploits the Pattern Identification prowess of the HMM for cluster selection and uses the NN associated with each cluster to predict the output of the system. The effectiveness of the method is evaluated by using the benchmark chaotic time series: Mackey Glass Time Series (MGTS). Simulation results show that the given method provides a better prediction performance in comparison to previous methods.},
+	bnote = {First author main contributor, others equal contributors},
+	kind={Conference}
+}
+
+@inproceedings{gupta2008time,
+	bibtex_show={true},
+  title={Time-efficient dynamic scene management using octrees},
+  author={Gupta, Anand and Vaishnavi, S and Malviya, Saurav},
+  booktitle={2008 IEEE International Multitopic Conference},
+  pages={111--115},
+  year={2008},
+  organization={IEEE},
+	doi={10.1109/INMIC.2008.4777718},
+	abstract={In this paper, we present a method of management of a dynamic scene using octrees. The use of octrees in image rendering in 3D space is suitable as the octree is essentially a tree data structure in three dimensions. Most such methods resort to modification - namely, resizing and rebuilding - of the nodes of the tree used in order to accomplish the desired results. The main concern in such an approach is to minimize, or preferably, avoid resizing of nodes during runtime, as it takes a great toll on system resources. Here we present an algorithm that completely avoids resizing of nodes, hence achieving greater efficiency. This aspect of the algorithm is also borne out by the experimental conclusions we have obtained.},
+	bnote={Names in order of contribution},
+	kind={Conference}
 }

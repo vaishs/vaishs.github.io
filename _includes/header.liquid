@@ -2,23 +2,14 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
+      {% if page.title != 'About' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          {% if site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
-          {% else %}
-            {{- site.title -}}
-          {% endif %}
+          {%- if site.title == "blank" -%}
+									<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}
+		  {%- else -%}
+									<!-- <strong>{{ site.title }}</strong> -->
+                  <strong>Home Page</strong>
+		  {%- endif -%}
         </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
@@ -50,7 +41,7 @@
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               {{- about_title }}
-              {% if page.permalink == '/' %}
+              {% if page.title == 'About' %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -129,7 +120,7 @@
             <!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">
-                <i class="ti ti-sun-moon" id="light-toggle-system"></i>
+                {% comment %} <i class="ti ti-sun-moon" id="light-toggle-system"></i> {% endcomment %}
                 <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
                 <i class="ti ti-sun-filled" id="light-toggle-light"></i>
               </button>

@@ -18,7 +18,7 @@ $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
+$purple-color: #C70039 !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
@@ -29,13 +29,22 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$white-color: #ffffff !default;
+// $white-color: #ffffff !default;
+$white-color: #FDFAEA !default;
 $black-color: #000000 !default;
 
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
+
+$full-divider-color:#ff6600 !default;
+$divider-color: color.adjust($full-divider-color, $lightness: 20%);
+$strong-color: #6A0A3A !default;
+
+$button-edge-color: #2BBD17 !default;
+$button-fill-color: lighten(#8AF07C, 10%) !default;
+
 
 // Font awesome location
 $fa-font-path: "../webfonts";

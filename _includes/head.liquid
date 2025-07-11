@@ -2,7 +2,7 @@
 {% include metadata.liquid %}
 
 <!-- Bootstrap & MDB -->
-<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
+<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}" crossorigin="anonymous">
 <link
   rel="stylesheet"
   href="{{ site.third_party_libraries.mdb.url.css }}"
@@ -30,6 +30,33 @@
   type="text/css"
   href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
 >
+
+<link rel="stylesheet" href="https://use.typekit.net/mfs4cpa.css">
+		<script>try{Typekit.load();}catch(e){}</script>
+		
+		<link rel="stylesheet" href="{{ '/assets/css/myfonts.css' | relative_url }}">
+		<!-- </noscript> -->
+
+<!-- Styles -->
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+
+		<!-- Husky -->
+		{% if page.title contains "Page not found" -%}
+		<link rel="stylesheet" href="{{ '/assets/css/husky.css' | relative_url }}" />
+    {% endif %}
+		
+		{% if page.title contains "Page not found" -%}
+		<script src="{{ '/assets/js/husky.js' | relative_url }}"></script>
+		{% endif %}
+		
+		<!-- Bib sort -->
+		<script src="{{ '/assets/js/bibsort.js' | relative_url }}"></script>
+		
+		<!-- General arrow down-to-left -->
+		<script src="{{ '/assets/js/genonclick.js' | relative_url }}"></script>
 
 <!-- Code Syntax Highlighting -->
 <link
@@ -66,8 +93,6 @@
 {% elsif site.icon != blank %}
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
