@@ -1,0 +1,1 @@
+function changearr(a){var s=document.getElementById(a);"fas fa-angle-down"==s.className?s.className="fas fa-angle-left":s.className="fas fa-angle-down"}function changeplus(a){var s=document.getElementById(a+"icon");"fas fa-plus"==s.className?s.className="fas fa-minus":s.className="fas fa-plus"}
