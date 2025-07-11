@@ -1,0 +1,37 @@
+free c: channel.
+
+type pkey.
+type skey.
+
+fun pk(skey) : pkey.
+fun aenc(bitstring, pkey) : bitstring.
+
+event iEnd(bitstring, pkey, pkey).
+event rEnd(bitstring, pkey, pkey).
+
+reduc forall t: bitstring, k:skey; adec(aenc(t, pk(k)), k) = t.
+
+
+let init(ski:skey, pkr:pkey) = 
+    new s: bitstring; 
+    out(c, (pk(ski), aenc(s, pkr))) ;    
+    in(c, x: bitstring);    
+    let y = adec(x, ski) in 
+        if (y = s) then event iEnd(s, pk(ski), pkr).
+
+let resp(skr:skey) =    
+    in(c, (k: pkey, x: bitstring));   
+    let z = adec(x, skr) in 
+        out(c, aenc(z, k)); event rEnd(z, k, pk(skr)).
+
+query s:bitstring, pki:pkey, pkr:pkey; event(iEnd(s, pki, pkr)) && event(rEnd(s, pki, pkr)) && attacker(s) ==> false.
+
+process
+(
+  !new sk:skey; 
+  (
+    out(c, pk(sk)) |
+     ( !in(c, x:pkey); init(sk,x) ) | 
+     ( !resp(sk) )
+  )
+)
