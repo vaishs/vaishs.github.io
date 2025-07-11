@@ -24,12 +24,6 @@
 <!-- Fonts & Icons -->
 <link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
 <link defer rel="stylesheet" href="{{ '/assets/css/scholar-icons.css' | relative_url | bust_file_cache }}">
-<link
-  defer
-  rel="stylesheet"
-  type="text/css"
-  href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
->
 
 <link rel="stylesheet" href="https://use.typekit.net/mfs4cpa.css">
 		<script>try{Typekit.load();}catch(e){}</script>
@@ -44,13 +38,10 @@
 
 
 		<!-- Husky -->
-		{% if page.title contains "Page not found" -%}
+		{% if page.title == 'Page not found' %}
 		<link rel="stylesheet" href="{{ '/assets/css/husky.css' | relative_url }}" />
-    {% endif %}
-		
-		{% if page.title contains "Page not found" -%}
-		<script src="{{ '/assets/js/husky.js' | relative_url }}"></script>
 		{% endif %}
+		
 		
 		<!-- Bib sort -->
 		<script src="{{ '/assets/js/bibsort.js' | relative_url }}"></script>

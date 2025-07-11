@@ -17,7 +17,7 @@ horizontal: false
 		<ul style="text-align:left">
 						<li><p>
 							<strong>COL352: Introduction to Automata and Theory of Computation</strong> [<a href="../courses/col352-jan25" target="_blank">Course page</a>]<br>
-							January 2025 &ndash; , IIT Delhi.<br>
+							January 2025 &ndash; May 2025, IIT Delhi.<br>
 							Instructor.
 						</p></li>
 						<li><p>
