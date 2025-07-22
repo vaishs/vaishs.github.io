@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">Mondays &amp; Thursdays 1530 &ndash; 1700, in SIT006.</p></h2>
+	<h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">Mondays &amp; Thursdays 1530 &ndash; 1700, in SIT006.</p></h3>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />

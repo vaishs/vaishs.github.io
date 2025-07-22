@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">AC slot: Tuesdays &amp; Fridays 1400 &ndash; 1530, in LHC603.</p></h2>
+	<h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">AC slot: Tuesdays &amp; Fridays 1400 &ndash; 1530, in LHC603.</p></h3>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />

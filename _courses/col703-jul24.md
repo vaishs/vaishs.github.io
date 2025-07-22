@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong> <p style="display:inline">B slot: Mondays &amp; Thursdays 0930 &ndash; 1100, in Block VI, LT II.</p></h2>
+	<h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">B slot: Mondays &amp; Thursdays 0930 &ndash; 1100, in Block VI, LT II.</p></h3>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />
