@@ -52,6 +52,11 @@ ninja.data = [{
           description: "July 2024 &amp;ndash; November 2024",
           section: "Courses",handler: () => {
               window.location.href = "/courses/col703-jul24.html";
+            },},{id: "courses-col703-amp-ndash-logic-for-computer-science",
+          title: 'COL703 &amp;amp;ndash; Logic for Computer Science',
+          description: "July 2025 &amp;ndash; November 2025",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/col703-jul25.html";
             },},{id: "courses-formal-verification-of-security-protocols-col876-special-topics-in-formal-methods",
           title: 'Formal Verification of Security Protocols  COL876 - Special Topics in Formal Methods',
           description: "July 2023 &amp;ndash; December 2023",
@@ -68,7 +73,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-about-the-insecurity-problem-for-assertions-has-been-accepted-at-ieee-csf-2024-arxiv-version",
           title: 'Our paper about the insecurity problem for assertions has been accepted at IEEE...',
           description: "",
-          section: "News",},{id: "news-i-am-teaching-introduction-to-automata-and-theory-of-computation-col352-this-semester-more-details-here",
-          title: 'I am teaching Introduction to Automata and Theory of Computation (COL352) this semester....',
+          section: "News",},{id: "news-i-am-teaching-logic-for-compuer-science-col703-col7203-this-semester-more-details-here",
+          title: 'I am teaching Logic for Compuer Science (COL703/COL7203) this semester. More details here....',
           description: "",
           section: "News",},];
