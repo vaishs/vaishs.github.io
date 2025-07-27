@@ -54,7 +54,7 @@ importance: 1
 			<li><p>Quizzes: 15&ndash;20%. There will be some surprise quizzes conducted in class on various days during the semester. Best n-1 out of n will be considered. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
 			<li><p>Practicals: 20%. Described in the first lecture.</p></li>
 			<li><p>In-class participation, attendance etc: 0&ndash;5%.</p></li>
-			<li><p>"A few of my favourite things": 0&ndash;5% <strong>Bonus</strong>.</p></li>
+			<li><p>Best example(s) of real-world situations modelled in logic: 0&ndash;5% <strong>Bonus</strong>.</p></li>
 	</ul>
 </p>
 
