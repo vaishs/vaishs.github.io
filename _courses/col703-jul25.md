@@ -78,10 +78,10 @@ importance: 1
 	</ul>
 </p>
 
-<!-- <header>
+<header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
-<div class="table-responsive">
+<!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
