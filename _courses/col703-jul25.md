@@ -81,7 +81,7 @@ importance: 1
 <header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
-<!-- <div class="table-responsive">
+<div class="table-responsive">
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
@@ -92,7 +92,7 @@ importance: 1
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">22 July, 2024</td>
+      <td style="text-align: center; vertical-align: middle;">28 July, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
       <td>
 						<p>
@@ -104,7 +104,7 @@ importance: 1
 				</td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">25 July, 2024</td>
+      <td style="text-align: center; vertical-align: middle;">31 July, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0b.pdf" target="_blank">Sets, functions, and relations</a></p></td>
       <td>
 						<p>
@@ -115,7 +115,7 @@ importance: 1
 				</td>
     </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
+    <!-- <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
     <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
     <td>
 				<p>
@@ -289,10 +289,10 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle;">14 November, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec24.pdf" target="_blank">Hoare logic, more logic</a></p></td>
 	   <td></td>
-	</tr>
+	</tr> -->
 	</tbody>
 </table>
-</div> -->
+</div>
 
 
 <br>
