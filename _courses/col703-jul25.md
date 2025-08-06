@@ -105,7 +105,7 @@ importance: 1
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">31 July, 2025</td>
-      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Preliminaries</a></p></td>
+      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw25/lec1.pdf" target="_blank">Preliminaries</a></p></td>
       <td>
 						<p>
 								<ul>
