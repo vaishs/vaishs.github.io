@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-	<h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">B slot: Mondays &amp; Thursdays 0930 &ndash; 1100, in Block VI, LT I.</p></h3>
+	<h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">B slot: Mondays &amp; Thursdays 0930 &ndash; 1100, in LH121.</p></h3>
 </header>
 
 <hr style="border: 1px dashed; color: orange" />
@@ -93,7 +93,7 @@ importance: 1
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;">28 July, 2025</td>
-      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
+      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw25/lec0.pdf" target="_blank">Course policy and introduction</a></p></td>
       <td>
 						<p>
 								<ul>
@@ -105,35 +105,27 @@ importance: 1
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">31 July, 2025</td>
-      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec0b.pdf" target="_blank">Sets, functions, and relations</a></p></td>
+      <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Preliminaries</a></p></td>
       <td>
 						<p>
 								<ul>
 										<li><p>Chapters 4 and 8 of <a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank">Mathematics for Computer Science</a>, by Eric Lehman, F Thomas Leighton, and Albert R Meyer</p></li>
 								</ul>
+								<ul>
+										<li><p><a href="https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/mathematical-induction.pdf" target="_blank">Introductory notes on Mathematical Induction</a> by Mary Barnes and Sue Gordon</p></li>
+								</ul>
+								<ul>
+										<li><p>Section 14 in Naive Set theory by Paul Halmos, PDF found <a href="https://github.com/matheusgirola/Halmos-Naive-Set-Theory-OCR-LaTeX-Reedition" target="_blank">here</a> </p></li>
+								</ul>
 						</p>
 				</td>
     </tr>
-  <tr>
-    <!-- <td style="text-align: center; vertical-align: middle;">29 July, 2024</td>
-    <td style="text-align: center; vertical-align: middle;"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec1.pdf" target="_blank">Orderings and induction</a></p></td>
-    <td>
-				<p>
-						<ul>
-								<li><p><a href="https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/mathematical-induction.pdf" target="_blank">Introductory notes on Mathematical Induction</a> by Mary Barnes and Sue Gordon</p></li>
-						</ul>
-						<ul>
-								<li><p>Section 14 in Naive Set theory by Paul Halmos, PDF found <a href="https://github.com/matheusgirola/Halmos-Naive-Set-Theory-OCR-LaTeX-Reedition" target="_blank">here</a> </p></li>
-						</ul>
-				</p>
-		</td>
-  </tr>
  <tr>
-   <td style="text-align: center; vertical-align: middle;">1 August, 2024</td>
-   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec2.pdf" target="_blank">Propositional logic</a></p></td>
+   <td style="text-align: center; vertical-align: middle;">4 August, 2025</td>
+   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw25/lec2.pdf" target="_blank">Propositional logic</a></p></td>
    <td></td>
  </tr>
- <tr>
+<!-- <tr>
    <td style="text-align: center; vertical-align: middle;">5 August, 2024</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec3.pdf" target="_blank">Propositional logic (contd.)</a></p></td>
    <td></td>
