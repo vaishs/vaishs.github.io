@@ -73,7 +73,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-about-the-insecurity-problem-for-assertions-has-been-accepted-at-ieee-csf-2024-arxiv-version",
           title: 'Our paper about the insecurity problem for assertions has been accepted at IEEE...',
           description: "",
-          section: "News",},{id: "news-i-am-teaching-logic-for-compuer-science-col703-col7203-this-semester-more-details-here",
-          title: 'I am teaching Logic for Compuer Science (COL703/COL7203) this semester. More details here....',
+          section: "News",},{id: "news-i-am-teaching-logic-for-computer-science-col703-col7203-this-semester-more-details-here",
+          title: 'I am teaching Logic for Computer Science (COL703/COL7203) this semester. More details here....',
           description: "",
           section: "News",},];
