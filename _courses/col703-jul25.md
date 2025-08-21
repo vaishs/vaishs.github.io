@@ -138,19 +138,19 @@ importance: 1
 			</p>
    </td>
  </tr>
-<!-- <tr>
-   <td style="text-align: center; vertical-align: middle;">12 August, 2024</td>
+<tr>
+   <td style="text-align: center; vertical-align: middle;">18 August, 2025</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec5.pdf" target="_blank">Resolution</a></p></td>
    <td>
    </td>
  </tr>
  <tr>
-   <td style="text-align: center; vertical-align: middle;">13 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle;">21 August, 2025</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec6.pdf" target="_blank">The Hilbert system</a></p></td>
    <td>
    </td>
  </tr>
- <tr>
+<!-- <tr>
    <td style="text-align: center; vertical-align: middle;">22 August, 2024</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec7.pdf" target="_blank">Completeness for the Hilbert system</a></p></td>
    <td>
