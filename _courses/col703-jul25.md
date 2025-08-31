@@ -150,8 +150,8 @@ importance: 1
    <td>
    </td>
  </tr>
-<!-- <tr>
-   <td style="text-align: center; vertical-align: middle;">22 August, 2024</td>
+<tr>
+   <td style="text-align: center; vertical-align: middle;">25 August, 2025</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec7.pdf" target="_blank">Completeness for the Hilbert system</a></p></td>
    <td>
 			<p><a href="../../assets/pdf/lecnotes/col703-diw24/ref/dtproofs.pdf" target="_blank">Here</a> is a list of proofs you should try to do using the Deduction Theorem. These are fairly fundamental statements and are often useful. Try to do the proofs in order, since some later ones might need you to invoke the ones that came prior.</p>
@@ -159,7 +159,7 @@ importance: 1
    </td>
  </tr>
  <tr>
-   <td style="text-align: center; vertical-align: middle;">29 August, 2024</td>
+   <td style="text-align: center; vertical-align: middle;">28 August, 2025</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec8.pdf" target="_blank">Propositional logic: Wrap up</a></p></td>
    <td>
 			<p><a href="https://www.cs.ox.ac.uk/people/james.worrell/lecture08.pdf" target="_blank">This link</a> has an excellent write-up about the Compactness Theorem and the Graph Colouring application.</p>
@@ -167,7 +167,7 @@ importance: 1
 			</p>
    </td>
  </tr>
- <tr>
+ <!-- <tr>
    <td style="text-align: center; vertical-align: middle;">31 August, 2024</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="https://microsoft.github.io/z3guide/playground/Freeform%20Editing/" target="_blank">Z3 Walkthrough</a></p></td>
    <td>
