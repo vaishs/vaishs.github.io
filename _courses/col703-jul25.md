@@ -174,13 +174,13 @@ importance: 1
 			<p>You can play around with other Z3 exercises <a href="https://systems-rg.github.io/wss23-logic-labs.html" target="_blank">here</a>. Z3 is a solver that primarily tries to solve the Satisfiability problem, which is <a href="https://en.wikipedia.org/wiki/Cook-Levin_theorem" target="_blank">known to be hard</a>. However, the problem is so common across subfields that enterprising computer scientists have come up with inventive ways to solve this problem anyway. Recommended reading related to SAT solving includes <a href="https://en.wikipedia.org/wiki/DPLL_algorithm" target="_blank">the DPLL algorithm</a> (which is related to Resolution) and <a href="https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning" target="_blank">Conflict-Driven Clause Learning</a> (which tries to "learn" a satisfying valuation for the given expression). Come talk to me if you're interested in learning more or working on extensions of any of these!
 			</p>
    </td>
- </tr>
+ </tr> -->
  <tr>
-   <td style="text-align: center; vertical-align: middle;">2 September, 2024</td>
+   <td style="text-align: center; vertical-align: middle;">1 September, 2025</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec9.pdf" target="_blank">First-order logic</a></p></td>
    <td></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">5 September, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec10.pdf" target="_blank">More first-order logic</a></p></td>
 	   <td></td>
