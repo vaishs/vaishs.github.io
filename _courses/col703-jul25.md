@@ -185,17 +185,17 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec10.pdf" target="_blank">More first-order logic</a></p></td>
 	   <td></td>
 	</tr>
-	<!-- <tr>
-	   <td style="text-align: center; vertical-align: middle;">9 September, 2024</td>
-	   <td style="text-align: center; vertical-align: middle"><p>Review lecture</p></td>
-	   <td></td>
-	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">19 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">8 September, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec11.pdf" target="_blank">FO: Truth and models</a></p></td>
 	   <td>Chapters 21 through 24 of Introduction to Formal Logic by Peter Smith contain many examples.</td>
 	</tr>
 	<tr>
+	   <td style="text-align: center; vertical-align: middle;">11 September, 2025</td>
+	   <td style="text-align: center; vertical-align: middle"><p>Review lecture</p></td>
+	   <td></td>
+	</tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">23 September, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec12.pdf" target="_blank">FO: Normal forms</a></p></td>
 	   <td></td>
