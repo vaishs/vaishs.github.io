@@ -174,33 +174,33 @@ importance: 1
 			<p>You can play around with other Z3 exercises <a href="https://systems-rg.github.io/wss23-logic-labs.html" target="_blank">here</a>. Z3 is a solver that primarily tries to solve the Satisfiability problem, which is <a href="https://en.wikipedia.org/wiki/Cook-Levin_theorem" target="_blank">known to be hard</a>. However, the problem is so common across subfields that enterprising computer scientists have come up with inventive ways to solve this problem anyway. Recommended reading related to SAT solving includes <a href="https://en.wikipedia.org/wiki/DPLL_algorithm" target="_blank">the DPLL algorithm</a> (which is related to Resolution) and <a href="https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning" target="_blank">Conflict-Driven Clause Learning</a> (which tries to "learn" a satisfying valuation for the given expression). Come talk to me if you're interested in learning more or working on extensions of any of these!
 			</p>
    </td>
- </tr>
+ </tr> -->
  <tr>
-   <td style="text-align: center; vertical-align: middle;">2 September, 2024</td>
+   <td style="text-align: center; vertical-align: middle;">1 September, 2025</td>
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec9.pdf" target="_blank">First-order logic</a></p></td>
    <td></td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">5 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">4 September, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec10.pdf" target="_blank">More first-order logic</a></p></td>
 	   <td></td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">9 September, 2024</td>
-	   <td style="text-align: center; vertical-align: middle"><p>Review lecture</p></td>
-	   <td></td>
-	</tr>
-	<tr>
-	   <td style="text-align: center; vertical-align: middle;">19 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">8 September, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec11.pdf" target="_blank">FO: Truth and models</a></p></td>
 	   <td>Chapters 21 through 24 of Introduction to Formal Logic by Peter Smith contain many examples.</td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">23 September, 2024</td>
-	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec12.pdf" target="_blank">FO: Normal forms</a></p></td>
+	   <td style="text-align: center; vertical-align: middle;">11 September, 2025</td>
+	   <td style="text-align: center; vertical-align: middle"><p>Review lecture</p></td>
 	   <td></td>
 	</tr>
 	<tr>
+	   <td style="text-align: center; vertical-align: middle;">18 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec12.pdf" target="_blank">FO: Normal forms</a></p></td>
+	   <td></td>
+	</tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">26 September, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec13.pdf" target="_blank">Unification</a></p></td>
 	   <td></td>
@@ -238,9 +238,6 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec19.pdf" target="_blank">More natural deduction</a></p></td>
 	   <td>
 				<p><a href="../../assets/pdf/lecnotes/col703-diw24/ref/ndproofs.pdf" target="_blank">Here</a> is a list of proofs you should try to do using the natural deduction proof system.</p>
-				<p><a href="http://arxiv.org/abs/2308.13773" target="_blank">This</a> is a paper that we recently wrote that was accepted at <a href="https://csf2024.ieee-security.org" target="_blank">IEEE CSF 2024</a> showing the (rather nice) NP-completeness for a security system built on top of a positive existential fragment of intuitonistic FOL. <br>
-					<a href="https://vaishs.github.io/assets/pdf/jlc2020-tr.pdf" target="_blank">Here</a> is a (perhaps more accessible) older paper that shows algorithms and complexity bounds for various fragments of intuitionistic propositional logic, and essentially points to disjunction as a culprit for the increased complexity of proof search. <br> Come talk to me if you're interested in doing some work along these lines!
-				</p>
 	   </td>
 	</tr>
 	<tr>

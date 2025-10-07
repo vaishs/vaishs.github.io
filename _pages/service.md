@@ -12,7 +12,8 @@ horizontal: false
 Here is a selection of professional and mentoring activities I have been involved with. In addition, I have also reviewed for various conferences and journals over the years. 
 
 <ul style="text-align:left">
-    <li><p>Instructor for Theory of Computation in the <a href="https://www.inae.in/inae-infosys-foundation-ceee-program/" target="_blank">INAE-INFOSYS Foundation Centre for Engineering Education Excellence Program</a> held at IIT Delhi, Sonepat Campus.</p></li>
+  <li><p>Co-instructor for Theory of Computation in the <a href="https://www.inae.in/inae-infosys-foundation-ceee-program/" target="_blank">INAE-INFOSYS Foundation Centre for Engineering Education Excellence Program</a> held at IIT Delhi, Sonepat Campus.</p></li>
+	<li><p><a href="https://conf.researchr.org/home/atva-2025" target="_blank">23rd International Symposium on Automated Technology for Verification and Analysis</a>: PC Member</p></li>			
 	<li><p><a href="https://2025.splashcon.org/track/OOPSLA" target="_blank">SPLASH 2025 - OOPSLA</a>: PC Member</p></li>
 	<li><p><a href="https://conf.researchr.org/home/isec-2025" target="_blank">18th Innovations in Software Engineering Conference (ISEC 2025)</a>: PC Member</p></li>
 	<li><p><a href="https://logicindia.org/icla/icla2025/" target="_blank">11th Indian Conference on Logic and its Applications (ICLA 2025)</a>: PC Member</p></li>
