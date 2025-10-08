@@ -196,16 +196,16 @@ importance: 1
 	   <td></td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">18 September, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">18 September, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec12.pdf" target="_blank">FO: Normal forms</a></p></td>
 	   <td></td>
 	</tr>
-	<!-- <tr>
-	   <td style="text-align: center; vertical-align: middle;">26 September, 2024</td>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">6 October, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec13.pdf" target="_blank">Unification</a></p></td>
 	   <td></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">30 September, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec14.pdf" target="_blank">Unification and resolution</a></p></td>
 	   <td></td>
