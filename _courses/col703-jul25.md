@@ -163,7 +163,7 @@ importance: 1
    <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec8.pdf" target="_blank">Propositional logic: Wrap up</a></p></td>
    <td>
 			<p><a href="https://www.cs.ox.ac.uk/people/james.worrell/lecture08.pdf" target="_blank">This link</a> has an excellent write-up about the Compactness Theorem and the Graph Colouring application.</p>
-   	<p><a href="www.murdle.com" target="_blank">Murdle</a> is an excellent, fun way to sharpen your logical inference skills. Try to code up today's Murdle in propositional logic! (You need to come up with the right propositions and the right connectives. This will often require some human meta-reasoning using the given clues.)
+   	<p><a href="https://www.murdle.com" target="_blank">Murdle</a> is an excellent, fun way to sharpen your logical inference skills. Try to code up today's Murdle in propositional logic! (You need to come up with the right propositions and the right connectives. This will often require some human meta-reasoning using the given clues.)
 			</p>
    </td>
  </tr>
