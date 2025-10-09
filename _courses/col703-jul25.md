@@ -205,12 +205,12 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec13.pdf" target="_blank">Unification</a></p></td>
 	   <td></td>
 	</tr>
-	<!-- <tr>
-	   <td style="text-align: center; vertical-align: middle;">30 September, 2024</td>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">9 October, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec14.pdf" target="_blank">Unification and resolution</a></p></td>
 	   <td></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">3 October, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec15.pdf" target="_blank">FO resolution</a></p></td>
 	   <td>
