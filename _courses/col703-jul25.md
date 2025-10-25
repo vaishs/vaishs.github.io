@@ -219,16 +219,16 @@ importance: 1
 			</td>
 	</tr>
 	<tr>
-	   <td style="text-align: center; vertical-align: middle;">23 October, 2024</td>
+	   <td style="text-align: center; vertical-align: middle;">23 October, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec16.pdf" target="_blank">FO completeness</a></p></td>
 	   <td></td>
 	</tr>
-	<!-- <tr>
-	   <td style="text-align: center; vertical-align: middle;">17 October, 2024</td>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">25 October, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec17.pdf" target="_blank">FO completeness</a></p></td>
 	   <td></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">21 October, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec18.pdf" target="_blank">Natural deduction for FOL</a></p></td>
 	   <td></td>
