@@ -233,14 +233,14 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec18.pdf" target="_blank">Natural deduction for FOL</a></p></td>
 	   <td></td>
 	</tr>
-	<!-- <tr>
-	   <td style="text-align: center; vertical-align: middle;">24 October, 2024</td>
+	<tr>
+	   <td style="text-align: center; vertical-align: middle;">30 October, 2025</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec19.pdf" target="_blank">More natural deduction</a></p></td>
 	   <td>
 				<p><a href="../../assets/pdf/lecnotes/col703-diw24/ref/ndproofs.pdf" target="_blank">Here</a> is a list of proofs you should try to do using the natural deduction proof system.</p>
 	   </td>
 	</tr>
-	<tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">28 October, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec20.pdf" target="_blank">First-order theories</a></p></td>
 	   <td></td>
