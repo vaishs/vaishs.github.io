@@ -245,12 +245,15 @@ importance: 1
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec20.pdf" target="_blank">First-order theories</a></p></td>
 	   <td></td>
 	</tr>
-	<!-- <tr>
-	   <td style="text-align: center; vertical-align: middle;">4 November, 2024</td>
-	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec21.pdf" target="_blank">More about First-order theories</a></p></td>
-	   <td></td>
-	</tr>
 	<tr>
+	   <td style="text-align: center; vertical-align: middle;">10 November, 2025</td>
+	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec21.pdf" target="_blank">More about First-order theories</a></p></td>
+	   <td>
+			<a href="https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf" target="_blank">This book</a> by Peter Smith provides a lovely, concise introduction to G&ouml;del's Incompleteness theorem. The technique is slightly different from the ones in the notes, but it is a thoroughly approachable text.</p>
+							<p><a href="https://www.ams.org/notices/200604/fea-franzen.pdf" target="_blank">This</a> very interesting piece by Torkel Franz&eacute;n presents a view of the overall context into which the Incompleteness theorem fits. <a href="https://www.logic.at/goedel2006/files/picsatexhibition.pdf" target="_blank">This</a> cute article by Karl Sigmund describes setting up an <a href="https://www.logic.at/goedel2006/index.php?exhibition" target="_blank">exhibition in Vienna</a> in 2006 on the centenary of G&ouml;del's birth, with a very entertaining tapestry of the history of his life and times. These pieces appeared in the <a href="https://www.ams.org/notices/200604/200604FullIssue.pdf" target="_blank">Notices of the AMS, volume 53, number 4 (A tribute to Kurt G&ouml;del)</a>. 						
+	  </td>
+	</tr>
+	<!-- <tr>
 	   <td style="text-align: center; vertical-align: middle;">7 November, 2024</td>
 	   <td style="text-align: center; vertical-align: middle"><p><a href="../../assets/pdf/lecnotes/col703-diw24/lec22.pdf" target="_blank">Incompleteness</a></p></td>
 	   <td>
