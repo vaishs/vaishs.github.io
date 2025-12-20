@@ -13,7 +13,7 @@ profile:
     <p>Indian Institute of Technology</p>
     <p>Hauz Khas, New Delhi 110 016.</p>
     <p>(South office in the Verification Lab)</p>
-    <p>firstname AT cse DOT iitd DOT ac DOT in</p>
+    <p>firstname AT cse.iitd.ac.in</p>
 		<p>011-26591292</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
