@@ -14,6 +14,7 @@ profile:
     <p>Hauz Khas, New Delhi 110 016.</p>
     <p>(South office in the Verification Lab)</p>
     <p>Tel: 011-26591292</p>
+		<p><tt>{firstname} AT cse DOT iitd DOT ac DOT in</tt></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
