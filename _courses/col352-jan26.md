@@ -31,15 +31,15 @@ importance: 1
 	<ul>
 			<li><p>Big quizzes: 60%. We will have five big quizzes from 1845--1945, on the following tentative dates:</p>
       <ol>
-        <li><p> Quiz 1: January 22, 2026 </li><p>
-        <li><p> Quiz 2: February 10, 2026 </li><p>
-        <li><p> Quiz 3: March 18, 2026 </li><p>
-        <li><p> Quiz 4: April 7, 2026 </li><p>
-        <li><p> Quiz 5: April 21, 2026 </li><p>
+        <li><p> Quiz 1: January 22, 2026 </p></li>
+        <li><p> Quiz 2: February 10, 2026 </p></li>
+        <li><p> Quiz 3: March 18, 2026 </p></li>
+        <li><p> Quiz 4: April 7, 2026 </p></li>
+        <li><p> Quiz 5: April 21, 2026 </p></li>
       </ol>
-      <p>The rooms for the quizzes will be announced closer to the dates of the quizzes. The syllabus for every quiz includes the material covered from the start of the course to the class just preceding that quiz (but not on the same day, if any). </p>
-      <p>No re-quiz will be conducted if you miss a quiz. However, quiz 5 is intended to be an improvement quiz: each quiz has 15% weightage, so quizzes 1 through 4 make up 60%. If students feel that they have done badly in quizzes 1 through 4, they can opt to take quiz 5 and have the best three quizzes out of 1&ndash;4 be counted along with the marks of quiz 5. The decision to take quiz 5 or not must be communicated in the week prior to quiz 5. </p>
-      </p></li> 
+      <p>The rooms for the quizzes will be announced closer to the dates of the quizzes. The syllabus for every quiz includes the material covered from the start of the course to the class just preceding that quiz (but not the same day). </p>
+      <p>No re-quiz will be conducted if you miss a quiz. However, quiz 5 is intended to be an improvement quiz: each quiz has 15% weightage, so quizzes 1 through 4 make up 60%. If you feel that you have done badly in quizzes 1 through 4, you can opt to take quiz 5 and have the best three quizzes out of 1&ndash;4 be counted along with the marks of quiz 5. The decision to take quiz 5 or not must be communicated in the week prior to quiz 5. </p>
+      </li> 
 			<li><p>Major: 40%. The syllabus for the major exam will include everything covered in the course. In case you miss the major exam for medical reasons, or get an E grade overall, in order to write the remajor, you must have maintained at least 75% attendance in the course.</p></li>
 			<!-- <li><p>Quizzes: 35&ndash;40%. There will be both scheduled and surprise quizzes conducted at various points during the semester. The best n-1 out of n surprise quizzes will be considered. All scheduled quizzes will count towards the final grade. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li> -->
 			<li><p><strong>Bonus</strong>: Participating in Q&A in the TA-run tutorials: 0&ndash; 5%. This incentivizes an intent to learn &mdash; for questions to receive a bonus, students must have tried the problem by themselves beforehand and be willing to engage in a discussion with the teaching staff. This bonus will only be added to the final total, and is computed as (100-(your total))/100 * (instances of participation)/5 * constant, with a choice of constant such that this value normalizes to a maximum of 5%. </p></li>
@@ -161,7 +161,7 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;">17 February, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Context-free = PDA-recognizable (part 1)</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/16.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/3.pdf">Tutorial sheet 3</a></p></td>
-							<!-- <br> <p> Arbitrary grammars can be converted to Greibach Normal Form by first converting to Chomsky Normal Form (see Theorem 2.9 in Sipser) and then applying a series of transformations. See <a href="https://www.geeksforgeeks.org/converting-context-free-grammar-greibach-normal-form/" target="_blank">here</a>. These normal forms come in very handy for certain parsing algorithms; see for example the famous <a href="https://en.wikipedia.org/wiki/CYK_algorithm" target="_blank">CYK algorithm</a>.</p> --> 
+							<br> <p> Arbitrary grammars can be converted to Greibach Normal Form by first converting to Chomsky Normal Form (see Theorem 2.9 in Sipser) and then applying a series of transformations. See <a href="https://www.geeksforgeeks.org/converting-context-free-grammar-greibach-normal-form/" target="_blank">here</a>. These normal forms come in very handy for certain parsing algorithms; see for example the famous <a href="https://en.wikipedia.org/wiki/CYK_algorithm" target="_blank">CYK algorithm</a>.</p>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">19 February, 2025</td>
