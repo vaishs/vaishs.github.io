@@ -47,6 +47,11 @@ ninja.data = [{
           description: "January 2025 &amp;ndash; May 2025",
           section: "Courses",handler: () => {
               window.location.href = "/courses/col352-jan25.html";
+            },},{id: "courses-col352-amp-ndash-introduction-to-automata-amp-amp-theory-of-computation",
+          title: 'COL352 &amp;amp;ndash; Introduction to Automata &amp;amp;amp; Theory of Computation',
+          description: "January 2026 &amp;ndash; May 2026",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/col352-jan26.html";
             },},{id: "courses-col703-amp-ndash-logic-for-computer-science",
           title: 'COL703 &amp;amp;ndash; Logic for Computer Science',
           description: "July 2024 &amp;ndash; November 2024",
