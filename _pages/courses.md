@@ -15,6 +15,11 @@ horizontal: false
 			<h2>As Instructor</h2>
 		</header>
 		<ul style="text-align:left">
+						<!-- <li><p>
+							<strong>COL352: Introduction to Automata and Theory of Computation</strong> [<a href="../courses/col352-jan26" target="_blank">Course page</a>]<br>
+							January 2026 &ndash; May 2026, IIT Delhi.<br>
+							Instructor.
+						</p></li> -->
 						<li><p>
 							<strong>COL703/COL7203: Logic for Computer Science</strong> [<a href="../courses/col703-jul25" target="_blank">Course page</a>]<br>
 							July 2025 &ndash; Nov 2025, IIT Delhi.<br>
