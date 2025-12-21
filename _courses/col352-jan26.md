@@ -25,7 +25,7 @@ importance: 1
 <br>
 
 <header>
-		<h2><strong> Evaluation &nbsp; attendance policy </strong></h2>
+		<h2><strong> Evaluation &amp; attendance policy </strong></h2>
 </header>
 <p>
 	<ul>
@@ -264,5 +264,5 @@ importance: 1
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/36.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_undecidable_problems">Here</a> is a list of interesting problems known to be undecidable.</a></p> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/5.pdf">Tutorial sheet 5</a></p></td>
     </tr>
 	</tbody>
-</table> -->
-</div>
+</table> 
+</div>-->
