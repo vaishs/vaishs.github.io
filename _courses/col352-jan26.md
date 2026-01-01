@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-  <h2><strong>Course timings:</strong></h2> <h3><p style="display:inline">E slot: Tuesdays, Wednesdays, &amp; Fridays: 1000 &ndash; 1050. &emsp; Venue: TBD</p></h3>
+  <h2><strong>Course timings:</strong></h2> <h3><p style="display:inline">E slot: Tuesdays, Wednesdays, &amp; Fridays: 1000 &ndash; 1050. &emsp; Venue: LH 408</p></h3>
 	<!-- <h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">E slot: Mondays &amp; Wednesdays 1100 &ndash; 1150 (LH 108), and Thursdays 1200 &ndash; 1250 (LH 121).</p></h3> -->
 </header>
 
@@ -29,7 +29,7 @@ importance: 1
 </header>
 <p>
 	<ul>
-			<li><p>Big quizzes: 60%. We will have five big quizzes from 1845--1945, on the following tentative dates:</p>
+			<li><p>Big quizzes: 60%. We will have five big quizzes from 1845 &ndash; 1945, on the following tentative dates:</p>
       <ol>
         <li><p> Quiz 1: January 22, 2026 </p></li>
         <li><p> Quiz 2: February 10, 2026 </p></li>
