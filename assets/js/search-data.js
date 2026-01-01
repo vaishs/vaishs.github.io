@@ -62,8 +62,8 @@ ninja.data = [{
           description: "July 2025 &amp;ndash; November 2025",
           section: "Courses",handler: () => {
               window.location.href = "/courses/col703-jul25.html";
-            },},{id: "courses-formal-verification-of-security-protocols-col876-special-topics-in-formal-methods",
-          title: 'Formal Verification of Security Protocols  COL876 - Special Topics in Formal Methods',
+            },},{id: "courses-formal-verification-of-security-protocols-col876-amp-ndash-special-topics-in-formal-methods",
+          title: 'Formal Verification of Security Protocols (COL876 &amp;amp;ndash; Special Topics in Formal Methods)',
           description: "July 2023 &amp;ndash; December 2023",
           section: "Courses",handler: () => {
               window.location.href = "/courses/col876-jul23.html";
