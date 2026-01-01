@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-  <h2><strong>Course timings:</strong></h2> <h3><p style="display:inline">E slot: Tuesdays, Wednesdays, &amp; Fridays: 1000 &ndash; 1050. Venue: TBD</p></h3>
+  <h2><strong>Course timings:</strong></h2> <h3><p style="display:inline">E slot: Tuesdays, Wednesdays, &amp; Fridays: 1000 &ndash; 1050. &emsp; Venue: TBD</p></h3>
 	<!-- <h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">E slot: Mondays &amp; Wednesdays 1100 &ndash; 1150 (LH 108), and Thursdays 1200 &ndash; 1250 (LH 121).</p></h3> -->
 </header>
 
@@ -48,7 +48,7 @@ importance: 1
 
 <p>Audit pass needs at least a B- overall, including at least 45% out of the 60% earmarked for quizzes.</p>
 	
-<p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> and <a href="https://www.cse.iitd.ac.in/~sak/courses/general.html" target="_blank">here</a> for more examples) will lead to a loss of grade, and potentially further disciplinary action. </p>
+<p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> and <a href="https://www.cse.iitd.ac.in/~sak/courses/general.html" target="_blank">here</a> for more examples) will lead to a loss of grade, and be forwarded to the department for further disciplinary action. </p>
 
 <header>
 	<h2><strong> Reference material </strong></h2>

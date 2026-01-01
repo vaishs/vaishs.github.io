@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formal Verification of Security Protocols <br> <h3>COL876 - Special Topics in Formal Methods</h3>
+title: Formal Verification of Security Protocols (COL876 &ndash; Special Topics in Formal Methods)</h3>
 description: July 2023 &ndash; December 2023
 # img: assets/img/12.jpg
 importance: 1
