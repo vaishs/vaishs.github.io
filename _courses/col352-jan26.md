@@ -8,7 +8,7 @@ importance: 1
 ---
 
 <header>
-  <h2><strong>Course timings:</strong></h2> <h3><p style="display:inline">E slot: Tuesdays, Wednesdays, &amp; Fridays: 1000 &ndash; 1050. &emsp; Venue: LH 408</p></h3>
+  <h2><strong>Course timings:</strong></h2> <h3><p style="display:inline">E slot: Tuesdays, Wednesdays, &amp; Fridays: 1000 &ndash; 1050. &emsp; Venue: LH 111</p></h3>
 	<!-- <h2><strong>Course timings &amp; Venue:</strong></h2> <h3><p style="display:inline">E slot: Mondays &amp; Wednesdays 1100 &ndash; 1150 (LH 108), and Thursdays 1200 &ndash; 1250 (LH 121).</p></h3> -->
 </header>
 
