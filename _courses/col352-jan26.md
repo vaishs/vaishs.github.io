@@ -64,7 +64,7 @@ importance: 1
 	</ul>
 </p>
 	
-<!-- <header>
+<header>
     <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
 </header>
 <div class="table-responsive">
@@ -78,16 +78,16 @@ importance: 1
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">2 January, 2025</td>
+      <td style="text-align: center; vertical-align: middle;">2 January, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Preliminaries and introduction</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/0.pdf" target="_blank">Slides</a></td>
+      <!-- <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/0.pdf" target="_blank">Slides</a></td> -->
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">6 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Deterministic finite-state automata</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/1.pdf" target="_blank">Slides</a></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td style="text-align: center; vertical-align: middle;">8 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Regular languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/2.pdf" target="_blank">Slides</a></td>
@@ -262,7 +262,7 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;">24 April, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>More reductions</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/36.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_undecidable_problems">Here</a> is a list of interesting problems known to be undecidable.</a></p> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/5.pdf">Tutorial sheet 5</a></p></td>
-    </tr>
+    </tr>-->
 	</tbody>
 </table> 
-</div>-->
+</div>
