@@ -87,12 +87,12 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>Deterministic finite-state automata</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/1.pdf" target="_blank">Slides</a></td>
     </tr>
-<!--     <tr>
-      <td style="text-align: center; vertical-align: middle;">8 January, 2025</td>
+     <tr>
+      <td style="text-align: center; vertical-align: middle;">7&ndash;9 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Regular languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/2.pdf" target="_blank">Slides</a></td>
     </tr>
-    <tr>
+<!--    <tr>
       <td style="text-align: center; vertical-align: middle;">9 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">Tutorial sheet 1</a></p></td>
