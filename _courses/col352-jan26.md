@@ -92,12 +92,14 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>Regular languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/2.pdf" target="_blank">Slides</a></td>
     </tr>
-<!--    <tr>
-      <td style="text-align: center; vertical-align: middle;">9 January, 2025</td>
-      <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">Tutorial sheet 1</a></p></td>
-    </tr>
     <tr>
+      <td style="text-align: center; vertical-align: middle;">9&ndash;10 January, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <!-- <br>
+							<p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">Tutorial sheet 1</a></p> -->
+			 </td>
+    </tr>
+<!--    <tr>
       <td style="text-align: center; vertical-align: middle;">13 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>NFAs and DFAs are equivalent</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/4.pdf" target="_blank">Slides</a></td>
