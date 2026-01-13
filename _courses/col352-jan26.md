@@ -34,7 +34,7 @@ importance: 1
         <li><p> Quiz 1: January 22, 2026 </p></li>
         <li><p> Quiz 2: February 9, 2026 </p></li>
         <li><p> Quiz 3: March 18, 2026 </p></li>
-        <li><p> Quiz 4: April 7, 2026 </p></li>
+        <li><p> Quiz 4: April 13, 2026 </p></li>
         <li><p> Quiz 5: April 21, 2026 </p></li>
       </ol>
       <p>The rooms for the quizzes will be announced closer to the dates of the quizzes. The syllabus for every quiz includes the material covered from the start of the course to the class just preceding that quiz (but not the same day). </p>
@@ -42,13 +42,29 @@ importance: 1
       </li> 
 			<li><p>Major: 40%. The syllabus for the major exam will include everything covered in the course. In case you miss the major exam for medical reasons, or get an E grade overall, in order to write the remajor, you must have maintained at least 75% attendance in the course.</p></li>
 			<li><p>In-class surprise quizzes: ¯\\_(ツ)_/¯. There might be surprise quizzes conducted in the class at various points during the semester. These will only be considered to bump your grade up in case of being at the D/E boundary. Absence in a quiz is directly marked 0. No make-up quizzes will be conducted.</p></li>
-			<li><p><strong>Bonus</strong>: Participating in Q&A in the TA-run tutorials: 0&ndash; 5%. This incentivizes an intent to learn &mdash; for questions to receive a bonus, students must have tried the problem by themselves beforehand and be willing to engage in a discussion with the teaching staff. This bonus will only be added to the final total, and is computed as (100-(your total))/100 * (instances of participation)/5 * constant, with a choice of constant such that this value normalizes to a maximum of 5%. </p></li>
+			<li><p><strong>Bonus</strong>: Participating in Q&A in the TA-run tutorials: 0&ndash;5%. This incentivizes an intent to learn&mdash;for questions to receive a bonus, students must have tried the problem by themselves beforehand and be willing to engage in a discussion with the teaching staff. This bonus will only be added to the final total, and is computed as (100-(your total))/100 * (instances of participation)/5 * constant, with a choice of constant such that this value normalizes to a maximum of 5%. </p></li>
 	</ul>
 </p>
 
 <p>Audit pass needs at least a B- overall, including at least 45% out of the 60% earmarked for quizzes.</p>
 	
 <p>Deviation of any sort from the IIT Delhi honour code (copying, plagiarism etc. &ndash; see <a href="https://t.ly/jACWG" target="_blank">here</a> and <a href="https://www.cse.iitd.ac.in/~sak/courses/general.html" target="_blank">here</a> for more examples) will lead to a loss of grade, and be forwarded to the department for further disciplinary action. </p>
+
+<header>
+		<h2><strong>Teaching Staff</strong></h2>
+<header>
+<p> The Teaching Assistants for the course are listed below.
+	<ul>
+		<li><p>Abhinav Khanna (2022CS11964)</p></li>
+		<li><p>Nayan Rabadiya (2025MCS2108)</p></li>
+		<li><p>Lakshay Saggi (2022CSZ8231)</p></li>
+		<li><p>Abhinav Rajesh Shripad (2022CS11596)</p></li>
+		<li><p>Siddhartha Singh (2022CS11604)</p></li>
+		<li><p>Abhishek Tiwari (2024CSZ8491)</p></li>
+		<li><p>Jatin Yadav (2023CSZ7549)</p></li>
+	</ul>
+	I will be available for office hours upon request. You can send me an email if you wish to meet me.
+</p>	
 
 <header>
 	<h2><strong> Reference material </strong></h2>
@@ -95,8 +111,9 @@ importance: 1
     <tr>
       <td style="text-align: center; vertical-align: middle;">9&ndash;10 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Nondeterminism</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> <!-- <br>
-							<p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/1.pdf">Tutorial sheet 1</a></p> -->
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/3.pdf" target="_blank">Slides</a> 
+							<br>
+							<p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut25/1.pdf">Tutorial sheet 1</a></p>
 			 </td>
     </tr>
 <!--    <tr>
