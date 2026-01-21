@@ -117,16 +117,16 @@ importance: 1
 			 </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">13&amp;16 January, 2026</td>
+      <td style="text-align: center; vertical-align: middle;">13 &amp; 16 January, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>NFAs and DFAs are equivalent</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/4.pdf" target="_blank">Slides</a></td>
     </tr>
-<!--    <tr>
-     <td style="text-align: center; vertical-align: middle;">15 January, 2025</td>
+    <tr>
+     <td style="text-align: center; vertical-align: middle;">20 &amp; 21 January, 2026</td>
      <td style="text-align: center; vertical-align: middle;"><p>Regular expressions</p></td>
      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/5.pdf" target="_blank">Slides</a></td>
     </tr>
-    <tr>
+<!--    <tr>
      <td style="text-align: center; vertical-align: middle;">20 January, 2025</td>
      <td style="text-align: center; vertical-align: middle;"><p>DFA minimization: The Myhill-Nerode theorem</p></td>
      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/6.pdf" target="_blank">Slides</a></td>
