@@ -136,22 +136,22 @@ importance: 1
      <td style="text-align: center; vertical-align: middle;"><p>DFA minimization: Algorithm</p></td>
      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/7.pdf" target="_blank">Slides</a> <br><p>The video linked to in the slides is <a target="_blank" href="https://www.youtube.com/watch?v=0XaGAkY09Wc">here</a>. <br> The L* DFA learning algorithm is closely connected to the Myhill-Nerode theorem and the techniques we have used for minimizing DFAs. <a href="https://www.sciencedirect.com/science/article/pii/0890540187900526" target="_blank">The original paper by Dana Angluin</a> is quite readable, and gives a nice overview of the procedure involved in learning a DFA from language membership queries. Question for you to ponder over: How does one minimize NFAs? </p></td>
     </tr>
-<!--    <tr>
-     <td style="text-align: center; vertical-align: middle;">23 January, 2025</td>
-     <td style="text-align: center; vertical-align: middle;"><p>Limitations of DFAs</p></td>
-     <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/8.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="https://iltis.cs.tu-dortmund.de/FoLa-WiSe2022-external/en/">This page</a> has an excellent compendium of tiny exercises you can try out to test your understanding of some of the material we cover in this course. Given the material we have covered so far, you should go through Part A. If you have ideas about extending/improving this webpage, come talk to me!</p></td>
-    </tr>
     <tr>
+     <td style="text-align: center; vertical-align: middle;">28 January, 2026</td>
+     <td style="text-align: center; vertical-align: middle;"><p>Pumping lemma</p></td>
+     <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/8new.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="https://iltis.cs.tu-dortmund.de/FoLa-WiSe2022-external/en/">This page</a> has an excellent compendium of tiny exercises you can try out to test your understanding of some of the material we cover in this course. Given the material we have covered so far, you should go through Part A. If you have ideas about extending/improving this webpage, come talk to me!</p></td>
+    </tr>
+    <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">27 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Pumping lemma</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/9.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/2.pdf">Tutorial sheet 2</a></p></td>
-    </tr>
+    </tr> -->
     <tr>
-      <td style="text-align: center; vertical-align: middle;">29 January, 2025</td>
+      <td style="text-align: center; vertical-align: middle;">30 January, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Non-regular languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/10.pdf" target="_blank">Slides</a></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">30 January, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Context-free grammars</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/11.pdf" target="_blank">Slides</a></td>
