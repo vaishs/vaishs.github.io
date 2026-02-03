@@ -139,7 +139,7 @@ importance: 1
     <tr>
      <td style="text-align: center; vertical-align: middle;">28 January, 2026</td>
      <td style="text-align: center; vertical-align: middle;"><p>Pumping lemma</p></td>
-     <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/8new.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="https://iltis.cs.tu-dortmund.de/FoLa-WiSe2022-external/en/">This page</a> has an excellent compendium of tiny exercises you can try out to test your understanding of some of the material we cover in this course. Given the material we have covered so far, you should go through Part A. If you have ideas about extending/improving this webpage, come talk to me!</p></td>
+     <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/8new.pdf" target="_blank">Slides</a> <br><p><a target="_blank" href="https://iltis.rub.de/Intro-to-TCS/">This page</a> has an excellent compendium of tiny exercises you can try out to test your understanding of some of the material we cover in this course. Given the material we have covered so far, you should go through Part A. If you have ideas about extending/improving this webpage, come talk to me!</p></td>
     </tr>
     <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">27 January, 2025</td>
