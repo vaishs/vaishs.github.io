@@ -151,12 +151,12 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>Non-regular languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/10.pdf" target="_blank">Slides</a><br><p><a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut25/2.pdf">Tutorial sheet 2</a></p></td>
     </tr>
-    <!-- <tr>
-      <td style="text-align: center; vertical-align: middle;">30 January, 2025</td>
-      <td style="text-align: center; vertical-align: middle;"><p>Context-free grammars</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/11.pdf" target="_blank">Slides</a></td>
-    </tr>
     <tr>
+      <td style="text-align: center; vertical-align: middle;">3 &ndash; 4 February, 2025</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Context-free grammars</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/11a.pdf" target="_blank">Slides</a></td>
+    </tr>
+    <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">3 February, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Context-free languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/12.pdf" target="_blank">Slides</a></td>
