@@ -157,7 +157,7 @@ importance: 1
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/11new.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">6 February, 2025</td>
+      <td style="text-align: center; vertical-align: middle;">6 February, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Pushdown automata</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/13new.pdf" target="_blank">Slides</a>
 			<br> <p> For details of how to show the equivalence between acceptance by empty stack and final state, see Supplementary Lecture E in Kozen's Automata and Computability. </p>		
