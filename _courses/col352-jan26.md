@@ -186,7 +186,7 @@ importance: 1
     </tr> -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">10 March, 2026</td>
-      <td style="text-align: center; vertical-align: middle;"><p>CYK parsing</p></td>
+      <td style="text-align: center; vertical-align: middle;"><p>CFGs and parsing</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/20new.pdf" target="_blank">Slides</a></td>
     </tr>
     <!-- <tr>
