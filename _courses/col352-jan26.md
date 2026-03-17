@@ -199,12 +199,12 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;"><p>CYK parsing</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/21.pdf" target="_blank">Slides</a></td>
     </tr>-->
-    <!-- <tr>
-      <td style="text-align: center; vertical-align: middle;">11 March, 2026</td>
-      <td style="text-align: center; vertical-align: middle;"><p>Non-context-free languages</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/22.pdf" target="_blank">Slides</a></td>
-    </tr>
     <tr>
+      <td style="text-align: center; vertical-align: middle;">11&ndash;13 March, 2026</td>
+      <td style="text-align: center; vertical-align: middle;"><p>Non-context-free languages</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/21new.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut25/4.pdf">Tutorial sheet 4</a></p></td>
+    </tr>
+    <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">19 March, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>(More about) Non-context-free languages</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/23.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/4.pdf">Tutorial sheet 4</a></p></td>
