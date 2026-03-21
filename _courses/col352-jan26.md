@@ -228,13 +228,13 @@ importance: 1
       <td style="text-align: center; vertical-align: middle;">27 March, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Turing-computability</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/27.pdf" target="_blank">Slides</a></td>
-    </tr>
+    </tr> -->
     <tr>
-      <td style="text-align: center; vertical-align: middle;">2 April, 2025</td>
+      <td style="text-align: center; vertical-align: middle;">17 &ndash; 20 March, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Turing machines</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/28.pdf" target="_blank">Slides</a></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/28new.pdf" target="_blank">Slides</a></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">3 April, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Recognizability and decidability</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/29.pdf" target="_blank">Slides</a></td>
