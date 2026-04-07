@@ -237,7 +237,7 @@ importance: 1
     <tr>
       <td style="text-align: center; vertical-align: middle;">20 March, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Recognizability and decidability</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/29new.pdf" target="_blank">Slides</a></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/29new.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut25/5.pdf">Tutorial sheet 5</a> </p></td>
     </tr>
     <!--<tr>
       <td style="text-align: center; vertical-align: middle;">1 April, 2026</td>
@@ -247,14 +247,14 @@ importance: 1
     <tr>
       <td style="text-align: center; vertical-align: middle;">1 April, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Turing machine variants</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/31.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut25/5.pdf">Tutorial sheet 5</a> </p></td>
-    </tr>
-    <!-- <tr>
-      <td style="text-align: center; vertical-align: middle;">16 April, 2025</td>
-      <td style="text-align: center; vertical-align: middle;"><p>More variants of Turing machine</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/32.pdf" target="_blank">Slides</a></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/31.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
+      <td style="text-align: center; vertical-align: middle;">7 April, 2026</td>
+      <td style="text-align: center; vertical-align: middle;"><p>More variants of Turing machine</p></td>
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/32.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut25/6.pdf">Tutorial sheet 6</a> </p></td>
+    </tr>
+    <!-- <tr>
       <td style="text-align: center; vertical-align: middle;">17 April, 2025</td>
       <td style="text-align: center; vertical-align: middle;"><p>Machines as input</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/33.pdf" target="_blank">Slides</a></td>
