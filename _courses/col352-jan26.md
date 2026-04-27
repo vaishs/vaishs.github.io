@@ -265,15 +265,15 @@ importance: 1
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/34.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">15 April, 2026</td>
+      <td style="text-align: center; vertical-align: middle;">15&ndash;17 April, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>Reductions</p></td>
       <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/35.pdf" target="_blank">Slides</a></td>
     </tr>
-    <!-- <tr>
-      <td style="text-align: center; vertical-align: middle;">17 April, 2026</td>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">20&ndash; 22 April, 2026</td>
       <td style="text-align: center; vertical-align: middle;"><p>More reductions</p></td>
-      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/36.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_undecidable_problems">Here</a> is a list of interesting problems known to be undecidable.</a></p> <br> <p> <a target="_blank" href="../../assets/pdf/lecnotes/col352-hol24/ref/tut/5.pdf">Tutorial sheet 5</a></p></td>
-    </tr>-->
+      <td><a href="../../assets/pdf/lecnotes/col352-hol24/notes/36.pdf" target="_blank">Slides</a> <br> <p> <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_undecidable_problems">Here</a> is a list of interesting problems known to be undecidable.</a></p></td>
+    </tr>
 	</tbody>
 </table> 
 </div>
