@@ -72,13 +72,13 @@ ninja.data = [{
           description: "January 2024 &amp;ndash; May 2024",
           section: "Courses",handler: () => {
               window.location.href = "/courses/scrapped_col750-jan24.html";
-            },},{id: "news-our-work-on-analyzing-the-edhoc-protocol-was-published-in-the-ccis-book-series-by-springer-access-it-here",
-          title: 'Our work on analyzing the EDHOC protocol was published in the CCIS book...',
-          description: "",
-          section: "News",},{id: "news-our-paper-about-the-insecurity-problem-for-assertions-has-been-accepted-at-ieee-csf-2024-arxiv-version",
+            },},{id: "news-our-paper-about-the-insecurity-problem-for-assertions-has-been-accepted-at-ieee-csf-2024-arxiv-version",
           title: 'Our paper about the insecurity problem for assertions has been accepted at IEEE...',
           description: "",
           section: "News",},{id: "news-i-am-teaching-introduction-to-automata-and-theory-of-computation-col352-this-semester-more-details-here",
           title: 'I am teaching Introduction to Automata and Theory of Computation (COL352) this semester....',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-the-formal-verification-of-edhoc-psk-was-published-at-asiaccs-26",
+          title: 'Our paper  on the formal verification of EDHOC-PSK was published at ASIACCS’26.',
           description: "",
           section: "News",},];
