@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 nav: true
 nav_order: 2
-years: [2024, 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2014, 2010, 2008]
+years: [2026, 2024, 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2014, 2010, 2008]
 kinds: [0, 1, 2, 3] 
 sortby: "Y"
 ---
