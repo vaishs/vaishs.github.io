@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-01-01 12:00:00+0530
+date: 2026-06-10 12:00:00+0530
 inline: true
 ---
 
-I am teaching Introduction to Automata and Theory of Computation (COL352) this semester. More details <a href="../courses/col352-jan26" target="_blank">here</a>.
+Our paper <a href="https://dl.acm.org/doi/10.1145/3779208.3805979"> on the formal verification of EDHOC-PSK was published at ASIACCS'26.
