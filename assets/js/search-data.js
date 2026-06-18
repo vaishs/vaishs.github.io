@@ -79,6 +79,6 @@ ninja.data = [{
           title: 'I am teaching Introduction to Automata and Theory of Computation (COL352) this semester....',
           description: "",
           section: "News",},{id: "news-our-paper-on-the-formal-verification-of-edhoc-psk-was-published-at-asiaccs-26",
-          title: 'Our paper  on the formal verification of EDHOC-PSK was published at ASIACCS’26.',
+          title: 'Our paper on the formal verification of EDHOC-PSK was published at ASIACCS’26.',
           description: "",
           section: "News",},];
