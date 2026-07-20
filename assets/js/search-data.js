@@ -67,6 +67,11 @@ ninja.data = [{
           description: "July 2023 &amp;ndash; December 2023",
           section: "Courses",handler: () => {
               window.location.href = "/courses/col876-jul23.html";
+            },},{id: "courses-automatic-theorem-proving-using-lean-col876-col8271-amp-ndash-special-topics-in-formal-methods",
+          title: 'Automatic theorem proving using Lean (COL876/COL8271 &amp;amp;ndash; Special Topics in Formal Methods)',
+          description: "July 2026 &amp;ndash; December 2026",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/col876-jul26.html";
             },},{id: "courses-col750-foundations-of-automatic-verification",
           title: 'COL750 - Foundations of Automatic Verification',
           description: "January 2024 &amp;ndash; May 2024",
