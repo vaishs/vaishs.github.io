@@ -16,6 +16,11 @@ horizontal: false
 		</header>
 		<ul style="text-align:left">
 						<li><p>
+							<strong>COL876/COL8271: Special Topics in Formal Methods</strong> [<a href="../courses/col876-jul26" target="_blank">Course page</a>]<br>
+							July 2026 &ndash; Dec 2026, IIT Delhi.<br>
+							Instructor.
+						</p></li>
+						<li><p>
 							<strong>COL352: Introduction to Automata and Theory of Computation</strong> [<a href="../courses/col352-jan26" target="_blank">Course page</a>]<br>
 							January 2026 &ndash; May 2026, IIT Delhi.<br>
 							Instructor.
