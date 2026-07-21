@@ -166,11 +166,12 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 <p>
 <ul>
 <li> In-class quizzes: 0&ndash;5% </li>
-<li> Programming test(s): &tilde;20% </li>
+<li> Programming test(s): Around 20% </li>
 <li> Minor exam: 20% </li>
-<li> Final project + deliverables: &tilde;55% </li>
+<li> Final project + deliverables: Around 55% </li>
 </ul>
 </p>
+
 <p> <strong> Audit policy: </strong> Audit pass needs at least a B- overall, including at least 30% in the final project.</p>
 
 
