@@ -165,11 +165,14 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 </header>
 <p>
 <ul>
-<li> In-class quizzes: 0&ndash;5% </li>
-<li> Programming test(s): Around 20% </li>
-<li> Minor exam: 20% </li>
-<li> Final project + deliverables: Around 55% </li>
+<li> In-class quizzes (at most 5): 0&ndash;5% </li>
+<li> Programming tests: 20% </li>
+<li> Minor exam: Around 25% </li>
+<li> Final project + deliverables: Around 50% </li>
 </ul>
+Academic dishonesty is taken very seriously in the department, and can lead to severe penalties and reporting to the disciplinary committee. If you are dishonest in a programming test, proctored exam, or in-class quiz, you get an F grade in the course. Academic dishonesty/similar submissions/unauthorized use of LLMs on the project will yield two grades down for all members of the project team, regardless of who committed the offence.
+
+No retests will be done for any gradable items. Missing the minor exam for a medical reason upon submission of certificate will lead to the in-person part of the project deliverable being scaled up. Missing any part of the project deliverable will result in a zero for that part.
 </p>
 
 <p> <strong> Audit policy: </strong> Audit pass needs at least a B- overall, including at least 30% in the final project.</p>
