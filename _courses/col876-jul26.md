@@ -175,7 +175,7 @@ Academic dishonesty is taken very seriously in the department, and can lead to s
 No retests will be done for any gradable items. Missing the minor exam for a medical reason upon submission of certificate will lead to the in-person part of the project deliverable being scaled up. Missing any part of the project deliverable will result in a zero for that part.
 </p>
 
-<p> <strong> Audit policy: </strong> Audit pass needs at least a B- overall, including at least 30% in the final project.</p>
+<p> <strong> Audit policy: </strong> Audit pass needs at least a B- overall, including at non-zero marks in all deliverable items.</p>
 
 
 
