@@ -13,6 +13,11 @@ importance: 1
 
 <hr style="border: 1px dashed; color: orange" />
 
+<strong>
+Important:
+</strong>
+The first lecture will be held on Monday the 27th of July. There will be no class on Thursday the 23rd.
+
 <!-- <strong>
 		If you want to but cannot register (perhaps because you do not fulfil the system-required prerequisites, which are different from the ones <a href="#prereq">here</a>), please fill out a General Request on the portal and mention me as the course coordinator. I will approve your request and the admin will eventually register you for the course.
 </strong>
