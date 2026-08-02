@@ -33,7 +33,7 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 <p>Automatically generating and verifying proofs of correctness has been steadily gaining prominence in mathematics and computer science, especially with LLMs pervading all aspects of our lives. Proof assistants like Rocq and Lean are at the forefront of this effort, but being able to generate proofs of correctness requires a lot of scaffolding and the encoding of fundamental structures to build things up from the ground up. This course is designed to be a primer to learn how to write proofs in the proof assistant Lean. 
 </p>
 
-<p>In this course, we will see how to encode basic discrete structures like graphs, trees, and orders in Lean, and prove theorems about them. This will give us a hands-on introduction to Lean and the way various constructs work in Lean, and we will slowly build up to proving statements about more complex data structures and algorithms, with a view to how such proofs can be used in mathematics and computer science. We will also get a flavour of how Lean works behind the scenes, and the dependent type theory that is used for it. Finally, we will look at GenAI techniques for Lean, and see if we can use some of these to generate (correct) proofs of interest.
+<p>In this course, we will see how to encode basic discrete structures like graphs, trees, and orders in <a href="lean-lang.org" target="_blank">Lean</a>, and prove theorems about them. This will give us a hands-on introduction to Lean and the way various constructs work in Lean, and we will slowly build up to proving statements about more complex data structures and algorithms, with a view to how such proofs can be used in mathematics and computer science. We will also get a flavour of how Lean works behind the scenes, and the dependent type theory that is used for it. Finally, we will look at GenAI techniques for Lean, and see if we can use some of these to generate (correct) proofs of interest.
 </p> 
 
 <br>
@@ -45,30 +45,36 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 
 <br>
 
-<!-- <header>
-    <h2><strong> Lecture Notes &amp; Reference Material </strong></h2>
+<header>
+    <h2><strong> Reference Material </strong></h2>
 </header>
 <div class="table-responsive">
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
       <th>Date</th>
-      <th>Slides</th>
-      <th>References (if any)</th>
+      <th>References</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>24 July, 2023</td>
-      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec1.pdf" target="_blank">Lecture 1</a></p></td>
-      <td></td>
+      <td>27 July, 2026</td>
+      <td>
+    <p>For a natural deduction presentation of propositional intuitionistic logic, see <a href="../../assets/pdf/lecnotes/col703-diw24/lec19.pdf" target="_blank">here</a>. <a href="https://lsv.ens-paris-saclay.fr/~baelde/1819/logique/nj0.pdf" target="_blank">This writeup</a> presents a bigger picture with semantics and proofs of soundness, completeness, and normalization for this system.  	
+				</p>			
+				<p>The Lean Game Server can be found <a href="https://adam.math.hhu.de/" target="_blank">here</a>.</p>
+    </td>
     </tr>
     <tr>
-      <td>27 July, 2023</td>
-      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec2.pdf" target="_blank">Lecture 2</a></p></td>
-      <td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/normsub.pdf" target="_blank">Normalization and subterm property</a></p></td>
+      <td>30 July, 2026</td>
+      <td>
+					<p>Install Lean by following the instructions <a href="https://lean-lang.org/install" target="_blank">here</a>. The <a href="https://live.lean-lang.org/?from=lean" target="_blank">Lean Playground</a> allows you to try out small snippets of Lean code in your browser locally, without any installation necessary.
+      		</p>
+					<p>We will follow large swathes of <a href="https://github.com/lean-forward/logical_verification_2025" target="_blank">The Hitchhiker's Guide to Logical Verification</a>. In particular, the first chapter talks about types and the relationship with terms and type inference, which we covered in class. Two other useful reference books are <a href="https://lean-lang.org/theorem_proving_in_lean4/" target="_blank">Theorem Proving in Lean</a> and <a href="https://leanprover-community.github.io/mathematics_in_lean/" target="_blank">Mathematics in Lean</a>. 
+					</p>
+			 </td>
     </tr>
-		<tr>
+		<!-- <tr>
 			<td>3 August, 2023</td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec3.pdf" target="_blank">Lecture 3</a></p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/quiz1-with-answers.pdf" target="_blank">Quiz 1 (with solutions)</a></p></td>
@@ -102,12 +108,12 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 			<td>24 August, 2023</td>
 			<td><p>ProVerif Review</p></td>
 			<td></td>
-		</tr>	
+		</tr>
 		<tr>
 			<td>28 August, 2023</td>
 			<td><p>Review &amp; discussion</p></td>
 			<td></td>
-		</tr>	
+		</tr>
 		<tr>
 			<td>31 August, 2023</td>
 			<td><p>Lecture 8, Undecidability of the secrecy problem</p></td>
@@ -152,10 +158,10 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 			<td>19 October, 2023</td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/lec12.pdf" target="_blank">Lecture 12</a>, Computational soundness (part 2)</p></td>
 			<td><p><a href="../../assets/pdf/lecnotes/col876-diw23/ref/comp-sound.pdf" target="_blank">Original paper</a></p></td>
-		</tr>
+		</tr> -->
   </tbody>
 </table>
-</div> -->
+</div>
 
 
 <br>
