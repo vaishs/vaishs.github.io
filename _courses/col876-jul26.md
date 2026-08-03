@@ -52,8 +52,8 @@ The first lecture will be held on Monday the 27th of July. There will be no clas
 <table class="table table-sm table-bordered">
   <thead class="thead-dark">
     <tr>
-      <th>Date</th>
-      <th>References</th>
+      <th style="text-align: center; vertical-align: middle;">Date</th>
+      <th style="text-align: left; vertical-align: middle;">References</th>
     </tr>
   </thead>
   <tbody>
