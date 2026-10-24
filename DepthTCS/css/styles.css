@@ -110,10 +110,10 @@ body {
 
 hr {
   margin: 1rem 0;
-  color: inherit;
+  color: var(--bs-primary);
   border: 0;
   border-top: 0.125rem solid;
-  opacity: 0.25;
+  opacity: 1;
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
@@ -10986,7 +10986,7 @@ html {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 1.75rem;
 }
 .masthead .masthead-avatar {
   width: 15rem;
@@ -11002,7 +11002,7 @@ html {
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 }
 .portfolio .portfolio-item {
